@@ -1,0 +1,19 @@
+.gray {
+  color: gray;
+}
+.red {
+  color: red;
+}
+
+.crossed {
+  text-decoration: line-through;
+}
+.underlined {
+  text-decoration: underline;
+}
+.technical {
+  font-family: monospace;
+}
+.semi-transparent {
+  opacity: .3;
+}
